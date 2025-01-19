@@ -1,0 +1,219 @@
+.google{
+    padding: 20px 20px 20px 20px;
+    color: #444;
+    font-family: arial, sans-serif;
+    outline: none;
+    margin: 10px 10px 10px 40px;
+    color:#ffffff;
+    text-shadow: 1px 1px 1px #000000;
+   
+}
+
+
+.youtybe{
+    margin: 10px 10px 10px 70px;
+    color: #ff0000;
+    text-shadow: 1px 1px 1px #000000;
+    
+}
+
+.google-play{
+    margin: 10px 10px 10px 70px;
+    color: #009402;
+    text-shadow: 1px 1px 1px #000000;
+    
+}
+.google-drive{
+    margin: 10px 10px 10px 70px;
+    color:#3ba719;
+    text-shadow: 1px 1px 1px #000000;
+    
+}
+.google-pay{
+    margin: 10px 10px 10px 70px;
+    color:#ffffff;
+    text-shadow: 1px 1px 1px #000000;
+}
+.facebook{
+    margin: 10px 10px 10px 70px;
+    color: #3e6bff;
+    text-shadow: 1px 1px 1px #000000;
+}
+.whatsapp{
+    margin: 10px 10px 10px 70px;
+    color: #008d1a;
+    text-shadow: 1px 1px 1px #000000;
+}
+.instagram{
+    margin: 10px 10px 10px 70px;
+    color: #fd48d6;
+    text-shadow: 1px 1px 1px #000000;
+    
+}
+.twitter{
+    margin: 10px 80px 10px 70px;
+    color: #00bfff;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+.fake-editable{
+    
+
+    padding: 5px 120px 5px 20px;
+    padding-left: 5px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 2px solid #000000;
+    
+    font-family: arial, sans-serif;
+    color: #444;
+    outline: none;
+    margin: 0;
+}
+
+.search:focus{
+    padding: 5px 120px 5px 20px;
+    
+    border-radius: 10px;
+   
+
+}
+.fa-solid fa-magnifying-glass{
+    padding: 10px 120px 5px 5px;
+    border-radius: 10px;
+    padding-left: -20px;
+}
+
+nav{
+    background-color: #8a8a8a;
+    border: 2px solid #a9a9a9;
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    color: #444;
+    outline: none;
+    padding: 10px 10px 10px 10px;
+}
+
+
+.html{
+    margin-top: 10px;
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+    
+    
+}
+
+.css{
+    margin-top: 10px;
+    box-sizing: border-box; 
+    color:#ffffff;
+    font-family: Unispace, sans-serif;
+    text-shadow: 2px 2px 2px #000000;
+    
+}
+
+.javascript{
+    color:#ffffff;
+    font-family: Unispace, sans-serif;
+    text-shadow: 2px 2px 2px #000000;
+    margin-top: 10px;
+    
+
+}
+
+.bootstrap{
+    color:#ffffff;
+    margin-top: 10px;
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+
+}
+
+.react{
+    color:#ffffff;
+    margin-top: 10px;
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+    margin-top: 10px;
+
+}
+
+.nodejs{
+    color:#ffffff;
+    margin-top: 10px;
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+
+}
+
+.php{
+    
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+}
+
+.python{
+    color:#ffffff;
+    
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+
+}
+
+.java{
+    color:#ffffff;
+    
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+
+}
+
+.mysql{
+    color:#ffffff;
+    
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+
+}
+
+.angular{
+    color:#ffffff;
+   
+    color:#ffffff;
+    text-shadow: 2px 2px 2px #000000;
+    font-family: Unispace, sans-serif;
+
+}
+
+.container{
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    background-color: #868686;
+    border: 2px solid #000000;
+    background: hightlight;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    color: #444;
+    outline: none;
+    padding: 10px 10px 10px 10px;
+}
+
+body{
+
+
+    background-color: #000000;
+    
+    
+}
